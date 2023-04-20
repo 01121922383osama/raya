@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280674464083",
+    "project_id": "raya-9480c",
+    "storage_bucket": "raya-9480c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280674464083:android:a104eb07998086437071a6",
+        "android_client_info": {
+          "package_name": "com.example.raya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280674464083-lvgpiefhnvnfvmassg620tdd7dbku91v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdl_blwRBXj-pXjtkcDIY2FBS2Z-MI1fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280674464083-lvgpiefhnvnfvmassg620tdd7dbku91v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
